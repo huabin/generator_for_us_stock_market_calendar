@@ -24,7 +24,7 @@ Easily generate and integrate the US stock market calendar for 2025 into your pe
 If you don't want to generate the file yourself, simply subscribe to this link to add the calendar directly:  
 
 ```
-https://calendar.google.com/calendar/ical/4d791d73bdfb472adcf1c23a87a159f010e2feed093ac8c1d1b0c16c5892b302%40group.calendar.google.com/private-ccfe9e822fed9a4528052eef1aceeb6f/basic.ics
+https://calendar.google.com/calendar/ical/c_ffc97569d98b68c290d28b14db1f5fe7e62a7750a708baf10620ae2c20d58227%40group.calendar.google.com/public/basic.ics
 ```
 
 ## License  
